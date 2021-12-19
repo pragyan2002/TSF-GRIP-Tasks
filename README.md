@@ -9,3 +9,6 @@ Task 2 - To Explore Unsupervised Machine Learning From the given ‘Iris’ data
 
 Task 2 dataset- https://bit.ly/3kXTdox
 
+Task 3 - In this task it is required to perform 'Exploratory Data Analysis' on dataset 'SampleSuperstore' and finding out the weak areas to work on to make more profit.
+
+Task 3 dataset- https://bit.ly/3i4rbWl 
